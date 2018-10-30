@@ -3,3 +3,6 @@
 
 # Hidden files
 .DS_Store
+
+# Files
+package-lock.json
